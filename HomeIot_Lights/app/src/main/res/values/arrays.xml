@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="lights_names">
+        <item>Table</item>
+        <item>Ceiling</item>
+        <item>Floor</item>
+    </string-array>
+
+    <array name="lights_resource">
+        <item>@drawable/ic_table_lamp</item>
+        <item>@drawable/ic_ceiling_lamp</item>
+        <item>@drawable/ic_floor_lamp</item>
+    </array>
+</resources>

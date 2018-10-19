@@ -1,0 +1,16 @@
+{
+  "name": "iotnodeserver",
+  "version": "1.0.0",
+  "description": "iotNodeServer",
+  "main": "index.js",
+  "repository": "",
+  "scripts": {
+    "test": "",
+    "start": "node index.js"
+  },
+  "author": "Jessy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
